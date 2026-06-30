@@ -2,22 +2,24 @@ body{
             background-color: rgb(255, 255, 255);
             color: rgb(54, 180, 37);
         }
-    </style>
-</head>
-<body>
-    <h1>mamadonas assasinas</h1>
-    <p>sobre mim: musicas, esportes, estilo</p>
-    <h3>tecnologiais:</h3>
-    <ol>
-        <li id="html">HTML</li>
-        <li id= "css">css</li>
-        <li id="JavaScript">JavaScript</li>
-    </ol>
-</body>
-</html>
+        h1{
+            color: rgb(0, 0, 0);
+        }
+        #html{
+            color: rgb(129, 70, 22);
+        }
+        #css{
+            color: rgb(104, 12, 12);
+        }
+        #JavaScript{
+            color: rgb(47, 33, 70);
+        }
+
+        #curtias{
+          background-color: darkgrey;
+          color: darkgrey;
 
 
-#curtidas{
-   
-}
 
+
+        }
